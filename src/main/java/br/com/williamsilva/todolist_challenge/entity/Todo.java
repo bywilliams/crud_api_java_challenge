@@ -17,7 +17,7 @@ public class Todo {
     private boolean realizado;
     private int propriedade;
 
-     // Getters and setters...
+    // Getters and setters...
     public Long getId() {
         return id;
     }
